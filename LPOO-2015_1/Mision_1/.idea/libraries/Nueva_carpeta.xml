@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Nueva carpeta">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-scratchpad-3.12-20150511.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-ooxml-schemas-3.12-20150511.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-ooxml-3.12-20150511.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-excelant-3.12-20150511.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-examples-3.12-20150511.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nueva carpeta/poi-3.12-20150511.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Nueva carpeta" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Nueva carpeta" recursive="false" />
+  </library>
+</component>

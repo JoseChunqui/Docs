@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Atención al Cilente - PlusMarket</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/style_3.css">
+</head>
+ 
+<body>
+ 
+<div class="container-fluid"> 
+ 
+  <div class="row">
+    <div class="col-md-12">
+         <div class="navbar-wrapper">
+                <nav class="navbar navbar-inverse">
+                     <a class="navbar-brand" href="#">Atención al Cliente</a>
+                </nav>
+        </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="col-md-12">
+          <div class="panel panel-primary">           
+            <div class="panel-heading">Datos del cliente
+            </div>
+            <div class="panel-body">
+              <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+                  <li class="active"><a href="#add_boleta" data-toggle="tab">Boleta</a></li>
+                  <li><a href="#add_factura" data-toggle="tab">Factura</a></li>
+              </ul>
+              <div class="tab-content">
+                  <div class="tab-pane active" id="add_boleta">
+                    <hr>
+                    <h4>Generación de Boleta</h4>
+                    <hr>
+                    <form class="form-horizontal" role="form">
+                      <div class="form-group">
+                        <label for="nomb_client" class="col-lg-4 control-label">Nombre del cliente</label>
+                         <div class="col-lg-8">
+                            <input type="name" class="form-control" id="nomb_client"
+                                 placeholder="Nombre">
+                         </div>
+                        </div>
+                    </form>
+
+                  </div>
+                  <div class="tab-pane" id="add_factura">
+                    <hr>
+                    <h4>Generación de Factrua</h4>
+                    <hr>
+                    <form class="form-horizontal" role="form">
+                      <div class="form-group">
+                        <label for="nomb_client" class="col-lg-4 control-label">Nombre del cliente</label>
+                         <div class="col-lg-8">
+                            <input type="name" class="form-control" id="nomb_client"
+                                 placeholder="Nombre">
+                         </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="apellidos_client" class="col-lg-4 control-label">Apellidos del cliente</label>
+                         <div class="col-lg-8">
+                            <input type="name" class="form-control" id="apellidos_client"
+                                 placeholder="Apellidos">
+                         </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="ruc_client" class="col-lg-4 control-label">RUC del cliente</label>
+                         <div class="col-lg-8">
+                            <input type="name" class="form-control" id="ruc_client"
+                                 placeholder="Ruc">
+                         </div>
+                      </div>
+                    </form>                    
+                  </div>
+              </div>                      
+            </div>
+          </div>
+        </div>     
+      </div>
+      
+      <div class="col-md-7">
+        <div class="col-md-12">
+          <div class="panel panel-primary">           
+            <div class="panel-heading">Pedido del cliente
+            </div>
+            <div class="panel-body">
+               <form class="form-horizontal" role="form">         
+                 <div class="form-group">
+                  <label for="nomb_prod" class="col-lg-4 control-label">Nombre/código del producto</label>
+                    <div class="col-lg-8">
+                    <input type="name" class="form-control" id="nomb_prod" placeholder="Nombre/código del producto">
+                    </div>
+                 </div>
+                <div class="form-group">
+                  <div class="col-lg-offset-4 col-lg-8">
+                  <label for="disp_prod" class="col-lg-6 control-label">Diponibilidad del producto</label>
+                    <div class="col-lg-6">
+                    <input class="form-control" id="disp_prod" type="text" placeholder="0 und." disabled>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="col-lg-offset-4 col-lg-8">
+                  <label for="disp_prod" class="col-lg-6 control-label">Precio por unidad</label>
+                    <div class="col-lg-6">
+                    <input class="form-control" id="disp_prod" type="text" placeholder="S/.0" disabled>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="cant_prod" class="col-lg-4 control-label">Cantidad</label>
+                  <div class="col-lg-3">
+                  <input type="number" class="form-control" id="cant_prod" placeholder="Cantidad">
+                  </div>
+                 </div>
+                  
+                 <div class="form-group">
+
+                  <div class="col-lg-offset-4 col-lg-8">
+
+                    <button type="submit" class="btn btn-default">Añadir Producto</button>
+                    <button type="submit" class="btn btn-default">Limpiar campos</button>
+                  </div>
+                 </div> 
+
+              </form>
+            </div>
+          </div>         
+        </div>
+        <div class="col-md-12">
+          <div class="panel panel-info">           
+            <div class="panel-heading">Lista de productos comprados
+            </div>
+            <div class="panel-body">
+              <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="#">Productos</a>
+                </div>
+                <div class="collapse navbar-collapse navbar-ex1-collapse">              
+                  <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="Buscar">
+                    </div>
+                    <button type="submit" class="btn btn-default">Buscar producto</button>
+                  </form>
+               
+                  <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Total a pagar:</a></li>
+                    <li><a href="#">S/.0</a>                  
+                  </ul>
+                </div>
+              </nav>
+            </div>
+          </div>          
+        </div>
+        <div class="col-md-12">
+          <div class="col-lg-offset-6 col-lg-6">
+            <button type="submit" class="btn btn-default">Generar Reporte</button>
+            <button type="submit" class="btn btn-default">Limpiar campos</button>
+          </div>
+        </div>        
+       
+      </div>
+   </div> 
+</div> 
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $('#tabs').tab();
+    });
+</script>    
+ 
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+ 
+</body>
+</html>

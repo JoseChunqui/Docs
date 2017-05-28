@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"foa",
+				"float"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"TXT",
+				"text-align"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"H2",
+				"h2	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/proyectolpoo/css/historial.css",
+		"/C/Users/User/Desktop/proyectolpoo/almacen.css",
+		"/C/Users/User/Desktop/proyectolpoo/almacen.html",
+		"/C/Users/User/Desktop/proyectolpoo/prueba.html",
+		"/C/Users/User/Desktop/proyectolpoo/proyect.html",
+		"/C/Users/User/Desktop/proyectolpoo/historial.html",
+		"/C/Users/User/Desktop/proyectolpoo/prueba vistas.html",
+		"/C/Users/User/Desktop/proyectolpoo/css/bootstrap.css",
+		"/C/Users/User/Desktop/proyectolpoo/css/bootstrap.min.css",
+		"/C/Users/User/Desktop/project_lpo/js/logic1.js",
+		"/C/Users/User/Desktop/project_lpo/prueba.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR03.500/last.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.407/script/logic1.js",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR25.1407/last.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR19.2313/project_lpo/prueba.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR17.3844/last.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR11.8047/project_lpo/prueba.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR21.594/last.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR01.063/project_lpo/Almacen.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR01.063/project_lpo/head.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR01.063/project_lpo/prueba.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.969/ventanas/atencion de pedidos.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR32.407/head.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.969/ventanas/control de almacen.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.969/ventanas/GanaciaCostos.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.969/ventanas/EstadoStock.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR33.969/ventanas/proveedores.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR35.953/css/style1.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR35.094/css/style2.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR35.235/css/style3.css",
+		"/C/Users/User/Desktop/PRÁCTICA 1/práctica1.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil7.css",
+		"/C/Users/User/Desktop/proyectolpoo/bumeran.html",
+		"/C/Users/User/Desktop/proyectolpoo/registro.html",
+		"/C/Users/User/Desktop/proyectolpoo/css/estilos.css",
+		"/C/Users/User/Desktop/proyectolpoo/css/estilbum.css",
+		"/C/Users/User/Desktop/proyectolpoo/css/bootstrap-theme.min.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR46.562/Index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR49.969/Estilo1.css",
+		"/C/Users/User/Desktop/proyectolpoo/proyectolpoo.sublime-project",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyectolpoo.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/login.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/css/bootstrap.css",
+		"/C/Users/User/Desktop/PRÁCTICA 1/css/prac.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR13.984/wikipedia-boostrap/wiki.html",
+		"/E/wikipedia-boostrap/wiki.html",
+		"/E/LPOO/Mi proyecto/index.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/youtube.html",
+		"/C/Users/User/Desktop/Nueva carpeta/proyecto1/css/practica1.html",
+		"/C/Users/User/Desktop/Nueva carpeta/proyecto1/css/estilyou.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/css/estilyou.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/css/login.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR10.782/funciones.js",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/paginae.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/css/pagina.css",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR05.390/Third Lesson/index.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/proyecto1/pagina.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/login.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/clase.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil3.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/terceravista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/vistas de proyecto.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/usandoestil.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/cuartavista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil4.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/quintavista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil5.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/segundavista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil2.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/funciones4.js",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/funciones.js",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/sextavista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil6.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/octavavista.html",
+		"/C/Users/User/Desktop/Nueva carpeta (4)/index.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/estil8.css",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/septimavista.html",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/funciones3.js",
+		"/C/Users/User/TRABAJOS SUBLIME TEXT/funciones2.js",
+		"/C/Users/User/Desktop/Nueva carpeta/index.html",
+		"/C/Users/User/Desktop/Nueva carpeta/css/reveal.css",
+		"/C/Users/User/Desktop/estiloscss.css",
+		"/C/Users/User/Desktop/Nueva carpeta (2)/Presentacion.html",
+		"/C/Users/User/Desktop/Nueva carpeta/css/reveal.min.css",
+		"/C/Users/User/Desktop/Nueva carpeta/Presentacion.html",
+		"/C/Users/User/Desktop/estilproy.css",
+		"/C/Users/User/Desktop/inventario.html",
+		"/C/Users/User/Desktop/juego.html",
+		"/C/Users/User/Desktop/contju.css",
+		"/C/Users/User/Desktop/proyecto.html",
+		"/C/Users/User/Desktop/css.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"col",
+			"Lima",
+			"-12",
+			"Administración",
+			"a",
+			"A",
+			"a",
+			"row",
+			" ",
+			"id",
+			"formu",
+			"></",
+			"=\" ",
+			"col-md-push-1",
+			"header3",
+			"sm",
+			"well",
+			"container",
+			"sm-10",
+			"\"button\"",
+			"10",
+			"1",
+			"\n	</section>\n	<script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n	<script type=\"text/javascript\" src=\"",
+			"btn",
+			"1",
+			";\n",
+			">\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
